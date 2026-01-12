@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/calculator',
+  basePath: '/v0-calculator',
   typescript: {
     ignoreBuildErrors: true,
   },
